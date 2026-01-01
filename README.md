@@ -94,21 +94,6 @@ I’m a **junior freelancer**, focused on learning, improving my stack, and buil
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=heribertofmonteiro&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=21600"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heribertofmonteiro&layout=compact&theme=tokyonight&cache_seconds=21600"
-  />
-</p>
-
 
 ---
 
