@@ -41,7 +41,7 @@
 
 > I use AI as a **support tool**, not a replacement:
 > - I always understand, review, and adapt the generated code
-> Focus on learning patterns, best practices, and architectural decision-making
+> - Focus on learning patterns, best practices, and architectural decision-making
 > - Maintain full control over business logic and system design
 
 
