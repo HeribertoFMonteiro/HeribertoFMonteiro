@@ -49,10 +49,7 @@ I’m a **junior freelancer**, focused on learning, improving my stack, and buil
   <a href="https://www.linkedin.com/in/heribertomonteirohfm/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Heriberto%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+  </p>
 
 ---
 
