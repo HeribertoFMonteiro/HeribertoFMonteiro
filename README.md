@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack & What I Work With
 - **Backend:** PHP (Laravel)
-- **Frontend:** JavaScript,TypeScript,Talwind Vue.js
+- **Frontend:** JavaScript, TypeScript, Tailwind CSS, Vue.js
 - **Mobile:** Flutter
 - **DevOps:** Docker, Docker Compose
 - **Databases:** MySQL, PostgreSQL
@@ -23,8 +23,27 @@
 - Writing **clear and maintainable code**
 - Keeping **development environments consistent** using Docker
 - Improving code quality through practice and real projects
+- Studying fundamentals of **software architecture and system design**
+
 
 ---
+## 🧠 Software Architecture & AI Studies
+
+- Currently studying **software architecture fundamentals**
+- Learning how to design **scalable, maintainable, and well-structured systems**
+- Studying **artificial intelligence concepts** applied to software development
+- Using **AI-assisted development tools consciously** to improve productivity and learning
+
+### 🤖 AI Tools I Use (Responsibly)
+- Kilo Code
+- Windsurf
+- Cursor
+
+> I use AI as a **support tool**, not a replacement:
+> - I always understand, review, and adapt the generated code
+> Focus on learning patterns, best practices, and architectural decision-making
+> - Maintain full control over business logic and system design
+
 
 ### 🚧 Current projects
 - Studying and building **restaurant & delivery system features**
@@ -61,6 +80,7 @@ I’m a **junior freelancer**, focused on learning, improving my stack, and buil
 - 🐳 Use **Docker** to keep development environments consistent
 - 📚 Continuously study **backend, frontend, and best practices**
 - 🚀 Improve code quality through **real projects and experimentation**
+- 🧠 Apply **software architecture concepts** in small and real-world projects
 
 ---
 
