@@ -46,9 +46,9 @@ I’m a **junior freelancer**, focused on learning, improving my stack, and buil
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
+  <a href="https://www.linkedin.com/in/heribertomonteirohfm/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Heriberto%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://www.youtube.com/@oreidosites">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
