@@ -43,8 +43,8 @@ I’m a **junior freelancer**, focused on learning, improving my stack, and buil
   <a href="https://github.com/HeribertoFMonteiro">
     <img src="https://img.shields.io/badge/GitHub-HeribertoFMonteiro-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/heribertofmonteiro">
+    <img src="https://img.shields.io/badge/Instagram-@heribertofmonteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/heribertomonteirohfm/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Heriberto%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
